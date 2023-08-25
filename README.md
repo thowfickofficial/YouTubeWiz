@@ -20,14 +20,14 @@ Before running the script, ensure you have the following requirements met:
 
 You can install the required libraries using pip:
 
-             ```bash
+             
              pip install tkinter pytube
 
 #Usage
 
   1. Run the script using Python:
 
-          ```bash
+          
 
     python youtube_downloader_gui.py
 
